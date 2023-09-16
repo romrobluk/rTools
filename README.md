@@ -1,4 +1,4 @@
-# rTools
+# rTools Beta
 A selection of tools made by romrobluk.
 
 Current Functions:
